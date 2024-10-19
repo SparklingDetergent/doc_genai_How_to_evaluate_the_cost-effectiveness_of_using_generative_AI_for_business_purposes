@@ -225,9 +225,6 @@ graph LR
         F --> G[予算策定]
         G --> H{初期導入費用<br/>運用費用<br/>リスクヘッジ}
     end
-
-    subgraph 空白
-    end
 ```
 <br/><br/>
 <br/><br/>
