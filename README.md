@@ -1,0 +1,2 @@
+# doc_genai_How_to_evaluate_the_cost-effectiveness_of_using_generative_AI_for_business_purposes
+生成AIの業務利用に対する費用対効果の評価方法について
